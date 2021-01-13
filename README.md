@@ -19,6 +19,8 @@
 <a href='https://www.instagram.com/halationn/'><img align="left" alt="instagram" width="27px" src="https://ifh.cc/g/CcDtJ6.png" /></a>
 <br>
 
+---
+
 ### Technical stack:
 
 <p>
