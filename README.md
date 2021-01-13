@@ -1,6 +1,6 @@
 # Hi there, I'm Xedni 👋
 
-<p align="right"> <img src="[https://komarev.com/ghpvc/?username=xednicoder](https://komarev.com/ghpvc/?username=xednicoder)" alt="xedni" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xednicoder" alt="xedni" /></p>
 
 ### I'm a Front-End Developer!
 
