@@ -79,5 +79,6 @@
 
 ---
 
-<img align="left" alt="arnabdeypolimi's Github Stats" src="[https://github-readme-stats.vercel.app/api?username=xednicoder&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=xednicoder&show_icons=true&hide_border=true)" />
+<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xednicoder&show_icons=true&hide_border=true" />
 
+![Xedni's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xednicoder&show_icons=true&hide_border=true)
