@@ -72,7 +72,7 @@
       <img src="https://img.shields.io/badge/Adobe%20Lightroom-323232?style=flat&logo=Adobe%20Lightroom&logoColor=31A8FF"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/Adobe%20Photoshop-323232?style=flat&logo=Adobe%20Photoshop&logoColor=323232"/>
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-323232?style=flat&logo=Adobe%20Photoshop&logoColor=27A1C5"/>
     </span>
   </span>
 </p>
