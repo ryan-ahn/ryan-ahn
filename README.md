@@ -21,18 +21,19 @@
 
 ### Technical stack:
 
+<p>
 <span>
 <span>
-<img src="[https://img.shields.io/badge/React_Native-20232A?style=flat&logo=ReactOS&logoColor=61DAFB](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=ReactOS&logoColor=61DAFB)"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=ReactOS&logoColor=61DAFB"/>
 </span>
 <span>
-<img src="[https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB)"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
 </span>
 <span>
-<img src="[https://img.shields.io/badge/React_Router-1c5b89?style=flat&logo=React&logoColor=white](https://img.shields.io/badge/React_Router-1c5b89?style=flat&logo=React&logoColor=white)"/>
+<img src="https://img.shields.io/badge/React_Router-1c5b89?style=flat&logo=React&logoColor=white"/>
 </span>
 <span>
-<img src="[https://img.shields.io/badge/Redux-593D88?style=flat&logo=React&logoColor=white](https://img.shields.io/badge/Redux-593D88?style=flat&logo=React&logoColor=white)"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=React&logoColor=white"/>
 </span>
 <span>
 <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)"/>
@@ -56,7 +57,7 @@
 <img src="[https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled-components&logoColor=white](https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white)"/>
 </span>
 </span>
-
+</p>
 ---
 
 ### Latest Project Videos
