@@ -77,21 +77,20 @@
 
 ### Latest Project Videos
 
-[Link to Google](https://www.google.com "title" target="_blank")
-- <a href="https://youtu.be/pBbvEsXnk7Y/?target=_blank">[React Native] MarketKurly Clone Project]</a>
-- [[React Native] MarketKurly Clone Project](https://youtu.be/pBbvEsXnk7Y/?target=_blank) {:target="_blank"}
-- [[React] CLASS101 Clone Project](https://youtu.be/qU5auE2DBgo){:target="_blank"}
-- [[React] OHouse Clone Project](https://youtu.be/e-y7PCsRhGo){:target="_blank"}
+<a target='_blank' href="...">ㅁㄴㅇㄹ</a>
+- [[React Native] MarketKurly Clone Project](https://youtu.be/pBbvEsXnk7Y)
+- [[React] CLASS101 Clone Project](https://youtu.be/qU5auE2DBgo)
+- [[React] OHouse Clone Project](https://youtu.be/e-y7PCsRhGo)
 
 ---
 
 ### Latest Blog Posts
 
-- [Lab | JavaScript, FormData 는 Console.log 가 불가능 할까?? (FormData 구조 파헤치기)](https://velog.io/@xedni/Lab-JavaScript-FormData){: target="_blank"}
-- [Lab | React Native, "VirtualizedLists should never be nested inside plain ScrollViews" (경고문 없애기 실험)](https://velog.io/@xedni/Lab-React-Native-VirtualizedLists-should-never-be-nested-inside-plain-ScrollViews){: target="_blank"}
-- [Lab | React, "TypeError: Cannot read property 'blabla' of undefined" (라이프 사이클 깨부수기 실험)](https://velog.io/@xedni/Lab-TypeError-Cannot-read-property-map-of-undefined-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4-%EA%B9%A8%EB%B6%80%EC%88%98%EA%B8%B0){: target="_blank"}
-- [Project | 오늘의집 클론 코딩 리뷰 (1)](https://velog.io/@xedni/Project-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1){: target="_blank"}
-- [Diary | 비전공자의 개발 철학](https://velog.io/@xedni/Diary-2020-11-15){: target="_blank"}
+- [Lab | JavaScript, FormData 는 Console.log 가 불가능 할까?? (FormData 구조 파헤치기)](https://velog.io/@xedni/Lab-JavaScript-FormData)
+- [Lab | React Native, "VirtualizedLists should never be nested inside plain ScrollViews" (경고문 없애기 실험)](https://velog.io/@xedni/Lab-React-Native-VirtualizedLists-should-never-be-nested-inside-plain-ScrollViews)
+- [Lab | React, "TypeError: Cannot read property 'blabla' of undefined" (라이프 사이클 깨부수기 실험)](https://velog.io/@xedni/Lab-TypeError-Cannot-read-property-map-of-undefined-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4-%EA%B9%A8%EB%B6%80%EC%88%98%EA%B8%B0)
+- [Project | 오늘의집 클론 코딩 리뷰 (1)](https://velog.io/@xedni/Project-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
+- [Diary | 비전공자의 개발 철학](https://velog.io/@xedni/Diary-2020-11-15)
 
 ---
 
