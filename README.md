@@ -77,9 +77,10 @@
 
 ### Latest Project Videos
 
-- [[React Native] MarketKurly Clone Project](https://youtu.be/pBbvEsXnk7Y){: target="_blank"}
-- [[React] CLASS101 Clone Project](https://youtu.be/qU5auE2DBgo){: target="_blank"}
-- [[React] OHouse Clone Project](https://youtu.be/e-y7PCsRhGo){: target="_blank"}
+- <a href="https://youtu.be/pBbvEsXnk7Y" target="_blank">[React Native] MarketKurly Clone Project]</a>
+- [[React Native] MarketKurly Clone Project](https://youtu.be/pBbvEsXnk7Y) {:target="_blank"}
+- [[React] CLASS101 Clone Project](https://youtu.be/qU5auE2DBgo){:target="_blank"}
+- [[React] OHouse Clone Project](https://youtu.be/e-y7PCsRhGo){:target="_blank"}
 
 ---
 
