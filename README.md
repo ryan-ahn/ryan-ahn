@@ -32,9 +32,6 @@
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/React_Router-004466?style=flat&logo=React%20Router&logoColor=red"/>
-    </span>
-    <span>
       <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=Redux&logoColor=white"/>
     </span>
     <span>
