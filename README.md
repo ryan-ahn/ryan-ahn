@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="xedni.co" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" />
+<a href='https://github.com/Xednicoder'><img align="left" alt="xedni.co" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" /></a>
 <img align="left" alt="xedni.co" width="27px" src="https://ifh.cc/g/xlfsVy.png" />
 <img align="left" alt="xednicoder | YouTube" width="27px" src="https://ifh.cc/g/P5VGmh.png" />
 <img align="left" alt="xednicoder | Instagram" width="27px" src="https://ifh.cc/g/szn8nf.png" />
