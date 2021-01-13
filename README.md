@@ -1,6 +1,6 @@
 # Hi there, I'm Xedni 👋
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=xednicoder" alt="xedni" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xednicoder" alt="xednicoder" /></p>
 
 ### I'm a Front-End Developer!
 
@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-<a href='https://github.com/Xednicoder'><img align="left" alt="xedni.co" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" /></a>
-<img align="left" alt="xedni.co" width="27px" src="https://ifh.cc/g/xlfsVy.png" />
-<img align="left" alt="xednicoder | YouTube" width="27px" src="https://ifh.cc/g/P5VGmh.png" />
-<img align="left" alt="xednicoder | Instagram" width="27px" src="https://ifh.cc/g/szn8nf.png" />
-<img align="left" alt="xednicoder | Instagram" width="27px" src="https://ifh.cc/g/CcDtJ6.png" />
+<a href='https://github.com/Xednicoder'><img align="left" alt="github" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" /></a>
+<a href='https://velog.io/@xedni'><img align="left" alt="blog" width="27px" src="https://ifh.cc/g/xlfsVy.png" /></a>
+<a href='https://www.youtube.com/channel/UCdGvd9GG87a1UuiaRWDexxQ'><img align="left" alt="utube" width="27px" src="https://ifh.cc/g/P5VGmh.png" /></a>
+<a href='https://www.facebook.com/sanghyuk4/'><img align="left" alt="facebook" width="27px" src="https://ifh.cc/g/szn8nf.png" /></a>
+<a href='https://www.instagram.com/halationn/'><img align="left" alt="instagram" width="27px" src="https://ifh.cc/g/CcDtJ6.png" /></a>
 <br>
 
 ### Technical stack:
