@@ -51,7 +51,7 @@
       <img src="https://img.shields.io/badge/CSS-D32D27?style=flat&logo=css3&logoColor=white"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/SASS-A4373A?style=flat&logo=Sass&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SASS-FFBE00?style=flat&logo=Sass&logoColor=black"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
