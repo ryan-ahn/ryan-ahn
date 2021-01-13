@@ -48,7 +48,25 @@
 <br>
   <span>
     <span>
-      <img src="https://img.shields.io/badge/CSS-FF9900?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-FFCD11?style=flat&logo=css3&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/SASS-FB542B?style=flat&logo=Sass&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
+    </span>
+  </span>
+</p>
+
+---
+
+
+### Design Tools:
+<p>
+  <span>
+    <span>
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=css3&logoColor=white"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/SASS-FB542B?style=flat&logo=Sass&logoColor=white"/>
