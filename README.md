@@ -48,10 +48,10 @@
 <br>
   <span>
     <span>
-      <img src="https://img.shields.io/badge/CSS-FFBE00?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/SASS-E34F26?style=flat&logo=Sass&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=Sass&logoColor=white"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
