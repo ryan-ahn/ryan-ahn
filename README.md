@@ -66,13 +66,13 @@
 <p>
   <span>
     <span>
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-323232?style=flat&logo=Adobe%20Illustrator&logoColor=FF0000"/>
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-323232?style=flat&logo=Adobe%20Illustrator&logoColor=FF9A00"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/Adobe%20Lightroom-323232?style=flat&logo=Adobe%20Lightroom&logoColor=FF0000"/>
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom-323232?style=flat&logo=Adobe%20Lightroom&logoColor=31A8FF"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/Adobe%20Photoshop-323232?style=flat&logo=Adobe%20Photoshop&logoColor=FF0000"/>
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-323232?style=flat&logo=Adobe%20Photoshop&logoColor=323232"/>
     </span>
   </span>
 </p>
