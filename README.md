@@ -1,6 +1,6 @@
 # Hi there, I'm Xedni 👋
 
-<p align="right"> <img src="[https://komarev.com/ghpvc/?username=xednicoder](https://komarev.com/ghpvc/?username=xednicoder)" alt="arnabadeypolimi" /> </p>
+<p align="right"> <img src="[https://komarev.com/ghpvc/?username=xednicoder](https://komarev.com/ghpvc/?username=xednicoder)" alt="xedni" /></p>
 
 ### I'm a Front-End Developer!
 
@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="](https://github.com/xednicoder)[xedni.co](http://xedni.co/)" width="27px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)" />
-[<img align="left" alt="](https://velog.io/@xedni)[xedni.co](http://xedni.co/)" width="27px" src="[https://ifh.cc/g/xlfsVy.png](https://ifh.cc/g/xlfsVy.png)" />
-[<img align="left" alt="xednicoder | YouTube" width="27px" src="](https://www.youtube.com/channel/UCdGvd9GG87a1UuiaRWDexxQ)[https://ifh.cc/g/P5VGmh.png](https://ifh.cc/g/P5VGmh.png)" />
-[<img align="left" alt="xednicoder | Instagram" width="27px" src="](https://www.facebook.com/sanghyuk4/)[https://ifh.cc/g/szn8nf.png](https://ifh.cc/g/szn8nf.png)" />
-[<img align="left" alt="xednicoder | Instagram" width="27px" src="](https://instagram.com/halationn)[https://ifh.cc/g/CcDtJ6.png](https://ifh.cc/g/CcDtJ6.png)" />
+<img align="left" alt="](https://github.com/xednicoder)[xedni.co](http://xedni.co/)" width="27px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)" />
+<img align="left" alt="](https://velog.io/@xedni)[xedni.co](http://xedni.co/)" width="27px" src="[https://ifh.cc/g/xlfsVy.png](https://ifh.cc/g/xlfsVy.png)" />
+<img align="left" alt="xednicoder | YouTube" width="27px" src="](https://www.youtube.com/channel/UCdGvd9GG87a1UuiaRWDexxQ)[https://ifh.cc/g/P5VGmh.png](https://ifh.cc/g/P5VGmh.png)" />
+<img align="left" alt="xednicoder | Instagram" width="27px" src="](https://www.facebook.com/sanghyuk4/)[https://ifh.cc/g/szn8nf.png](https://ifh.cc/g/szn8nf.png)" />
+<img align="left" alt="xednicoder | Instagram" width="27px" src="](https://instagram.com/halationn)[https://ifh.cc/g/CcDtJ6.png](https://ifh.cc/g/CcDtJ6.png)" />
 
 <br>
 
