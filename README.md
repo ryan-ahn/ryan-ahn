@@ -48,7 +48,7 @@
 <br>
   <span>
     <span>
-      <img src="https://img.shields.io/badge/CSS-FFCD11?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-FFCD11?style=flat&logo=css3&logoColor=black"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/SASS-FB542B?style=flat&logo=Sass&logoColor=white"/>
@@ -66,13 +66,13 @@
 <p>
   <span>
     <span>
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=black"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/SASS-FB542B?style=flat&logo=Sass&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-9999FF?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
     </span>
   </span>
 </p>
