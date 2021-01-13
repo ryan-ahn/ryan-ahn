@@ -22,42 +22,43 @@
 ### Technical stack:
 
 <p>
-<span>
-<span>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=ReactOS&logoColor=61DAFB"/>
-</span>
-<span>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
-</span>
-<span>
-<img src="https://img.shields.io/badge/React_Router-1c5b89?style=flat&logo=React&logoColor=white"/>
-</span>
-<span>
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=React&logoColor=white"/>
-</span>
-<span>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-</span>
-<span>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-</span>
-<span>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-</span>
-</span>
+  <span>
+    <span>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=ReactOS&logoColor=61DAFB"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/React_Router-1c5b89?style=flat&logo=React&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=React&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+    </span>
+  </span>
 <br>
-<span>
-<span>
-<img src="[https://img.shields.io/badge/CSS-FFBE00?style=flat&logo=css3&logoColor=white](https://img.shields.io/badge/CSS-FFBE00?style=flat&logo=css3&logoColor=white)"/>
-</span>
-<span>
-<img src="[https://img.shields.io/badge/SASS-E34F26?style=flat&logo=Sass&logoColor=white](https://img.shields.io/badge/SASS-E34F26?style=flat&logo=Sass&logoColor=white)"/>
-</span>
-<span>
-<img src="[https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled-components&logoColor=white](https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white)"/>
-</span>
-</span>
+  <span>
+    <span>
+      <img src="https://img.shields.io/badge/CSS-FFBE00?style=flat&logo=css3&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/SASS-E34F26?style=flat&logo=Sass&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
+    </span>
+  </span>
 </p>
+
 ---
 
 ### Latest Project Videos
