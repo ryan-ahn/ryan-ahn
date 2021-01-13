@@ -30,10 +30,10 @@
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/React_Router-444444?style=flat&logo=React&logoColor=red"/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=React%20Router&logoColor=black"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=Redux&logoColor=white"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
