@@ -48,7 +48,7 @@
 <br>
   <span>
     <span>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-FF9900?style=flat&logo=css3&logoColor=white"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/SASS-FB542B?style=flat&logo=Sass&logoColor=white"/>
