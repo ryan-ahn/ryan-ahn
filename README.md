@@ -86,10 +86,10 @@
 ### Blog Main Articles
 
 - [Lab | JavaScript, FormData 는 Console.log 가 불가능 할까?? (FormData 구조 파헤치기)](https://velog.io/@xedni/Lab-JavaScript-FormData)
-- [[React Native] 마켓컬리 Clone Project Review](https://velog.io/@xedni/Project-%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
-- [[React] 클래스101 Clone Project Review](https://velog.io/@xedni/Project-%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
-- [[React] 오늘의집 Clone Project Review](https://velog.io/@xedni/Project-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
 - [Diary | 비전공자의 개발 철학](https://velog.io/@xedni/Diary-2020-11-15)
+- [React Native| 마켓컬리 Clone Project Review](https://velog.io/@xedni/Project-%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
+- [React | 클래스101 Clone Project Review](https://velog.io/@xedni/Project-%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
+- [React | 오늘의집 Clone Project Review](https://velog.io/@xedni/Project-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
 
 ---
 
