@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=xednicoder" alt="xednicoder" /></p>
 
-### I'm a Front-End Developer!
+### I'm a Front-End Engineer!
 
 - 🧩 I’m currently working on .....
 - 🏡 I’m currently live in Seoul, Korea.
