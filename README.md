@@ -4,7 +4,7 @@
 
 ### I'm a Front-End Engineer!
 
-- 🧩 I’m currently working on .....
+- 🧩 I'm looking for a job right now.
 - 🏡 I’m currently live in Seoul, Korea.
 - 🔥 I usually like experiments and research.
 - 🦋 I feel pleasure when I make a pretty view.
