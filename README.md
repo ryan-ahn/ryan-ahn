@@ -89,9 +89,3 @@
 - [실제 서비스 100% 구현을 향한 React Native 개발 리뷰](https://velog.io/@xedni/Rroject-MarketKurly-APP-%ED%81%B4%EB%A1%A0%ED%95%98%EA%B8%B0)
 - [클론 하려 했는데 기획하게 된 React 개발 리뷰](https://velog.io/@xedni/Project-%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
 - [오늘의집 긴장해.. 지금 내일의집 만든다. React 개발 리뷰](https://velog.io/@xedni/Project-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
-
----
-
-<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xednicoder&show_icons=true&hide_border=true" />
-
-![Xedni's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xednicoder&show_icons=true&hide_border=true)
