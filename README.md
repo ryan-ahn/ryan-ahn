@@ -78,5 +78,11 @@
     <span>
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-323232?style=flat&logo=Adobe%20Photoshop&logoColor=27A1C5"/>
     </span>
+    <span>
+      <img src="https://img.shields.io/badge/Adobe%20XD-323232?style=flat&logo=Adobe XD&logoColor=FF61F6"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/pigma-323232?style=flat&logo=pigma&logoColor=F24E1E"/>
+    </span>
   </span>
 </p>
