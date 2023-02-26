@@ -21,13 +21,22 @@
 <p>
   <span>
     <span>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=React&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat&logo=React&logoColor=61DAFB"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-444444?style=flat&logo=Next.js&logoColor=white"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=Redux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Reactjs-20232A?style=flat&logo=React&logoColor=61DAFB"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/ReduxSaga-593D88?style=flat&logo=Redux&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/Zustand-444444?style=flat&logo=Zotero&logoColor=white"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -35,6 +44,7 @@
     <span>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
     </span>
+
   </span>
 <br>
   <span>
@@ -49,6 +59,9 @@
     </span>
     <span>
       <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white"/>
     </span>
   </span>
 </p>
