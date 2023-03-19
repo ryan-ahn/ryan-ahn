@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-- 📨 kaaiinn4@gmail.com
-- 📖 https://velog.io/@xedni
+- 📨 [Email](kaaiinn4@gmail.com)
+- 📖 [Blog](https://velog.io/@xedni)
 
 
 ---
