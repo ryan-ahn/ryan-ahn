@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/React.js-303030?style=flat&logo=React&logoColor=61DAFB"/>
   </span>
   <span>
-    <img src="https://img.shields.io/badge/Vue.js-303030?style=flat&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-303030?style=flat&logo=Vue.js&logoColor=4FC08D"/>
   </span>
   <span>
     <img src="https://img.shields.io/badge/Flutter-303030?style=flat&logo=Flutter&logoColor=764ABC"/>
