@@ -109,10 +109,10 @@
   <br>
   
   <span>
-    <img src="https://img.shields.io/badge/GCP-303030?style=flat&logo=googlecloud&logoColor=4285F4"/>
+    <img src="https://img.shields.io/badge/GCP-101010?style=flat&logo=googlecloud&logoColor=4285F4"/>
   </span>
   <span>
-    <img src="https://img.shields.io/badge/AWS-303030?style=flat&logo=amazonaws&logoColor=FF9900"/>
+    <img src="https://img.shields.io/badge/AWS-101010?style=flat&logo=amazonaws&logoColor=FF9900"/>
   </span>
 </div>
 
