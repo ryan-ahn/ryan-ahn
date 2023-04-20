@@ -77,7 +77,9 @@
   <img src="https://img.shields.io/badge/TailwindCSS-101010?style=flat&logo=Tailwind%20CSS&logoColor=06B6D4"/>
 </span>
 <span>
+  <img src="https://img.shields.io/badge/Emotion-101010?style=flat&logo=elementary&logoColor=bd41a8"/>
 </span>
+
 
 <h5>2) Back-end</h5>
 <span>
