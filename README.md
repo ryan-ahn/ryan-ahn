@@ -81,7 +81,7 @@
 </span>
 
 
-<h5>2) Back-end</h5>
+<h5>2) Back-End</h5>
 <span>
   <img src="https://img.shields.io/badge/Nodejs-101010?style=flat&logo=Node.js&logoColor=339933"/>
 </span>
