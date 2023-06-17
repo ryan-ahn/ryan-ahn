@@ -12,7 +12,7 @@
 ### Connect with me:
 
 - 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com)
-- 📖 [Blog](https://velog.io/@xedni)
+- 📖 [Blog (사용안함)](https://velog.io/@xedni)
 
 ---
 
@@ -38,6 +38,9 @@
   <img src="https://img.shields.io/badge/React.js-101010?style=flat&logo=React&logoColor=61DAFB"/>
 </span>
 <span>
+  <img src="https://img.shields.io/badge/Nuxt.js-101010?style=flat&logo=Nuxt.js&logoColor=00DC82"/>
+</span>
+<span>
   <img src="https://img.shields.io/badge/Vue.js-101010?style=flat&logo=Vue.js&logoColor=4FC08D"/>
 </span>
 <span>
@@ -45,27 +48,6 @@
 </span>
 <span>
   <img src="https://img.shields.io/badge/ReactNative-101010?style=flat&logo=React&logoColor=61DAFB"/>
-</span>
-  
-<br>
-  
-<span>
-  <img src="https://img.shields.io/badge/ReduxSaga-101010?style=flat&logo=Redux&logoColor=764ABC"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/ReactQuery-101010?style=flat&logo=React Query&logoColor=FF4154"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Zustand-101010?style=flat&logo=Zotero&logoColor=F3DF49"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Vuex-101010?style=flat&logo=Vue.js&logoColor=4FC08D"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/GetX-101010?style=flat&logo=Ghost&logoColor=purple"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Pinia-101010?style=flat&logo=pihole&logoColor=yellow"/>
 </span>
  
 <br>
@@ -78,6 +60,15 @@
 </span>
 <span>
   <img src="https://img.shields.io/badge/Emotion-101010?style=flat&logo=elementary&logoColor=bd41a8"/>
+</span>
+ 
+<br>
+ 
+<span>
+  <img src="https://img.shields.io/badge/Vite-101010?style=flat&logo=Vite&logoColor=646CFF"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Webpack-101010?style=flat&logo=webpack&logoColor=8DD6F9"/>
 </span>
 
 
