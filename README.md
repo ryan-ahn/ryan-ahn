@@ -12,7 +12,6 @@
 ### Connect with me:
 
 - 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com)
-- 📖 [Blog (사용안함)](https://velog.io/@xedni)
 
 ---
 
