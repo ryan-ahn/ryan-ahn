@@ -12,8 +12,8 @@
 ### Repository Convention:
 
 - 네이밍룰 : category + name + stack
-- 카테고리명 : service(실서비스), project(개인프로젝트), boiler(보일러플레이트), unit(유닛)
-- 샘플명 : service-vlpm-reactnative
+- 카테고리명 : service, project, boiler, unit, test
+- 샘플 : service-vlpm-reactnative
 
 ### Connect with me:
 
