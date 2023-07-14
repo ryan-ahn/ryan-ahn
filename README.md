@@ -12,7 +12,7 @@
 ### Repository Convention:
 
 - 네이밍룰 : category + name + stack
-- 카테고리명 : service, project, boiler, unit, test
+- 카테고리명 : service, project, boiler, unit, clone, test
 - 샘플 : service-vlpm-reactnative
 
 ### Connect with me:
