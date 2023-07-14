@@ -13,6 +13,12 @@
 
 - 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com)
 
+### Repository Convention:
+
+- 🔖 네이밍룰 : category + name + stack
+- 📂 카테고리명 : service(실서비스), project(개인프로젝트), test(연습용), unit(유닛)
+- 📄 샘플명 : service-vlpm-reactnative
+
 ---
 
 
