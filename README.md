@@ -4,20 +4,20 @@
 
 ### Hi, there, This is Ryan!
 
-- 🏡 서울에 거주하고 있는 웹/앱 소프트웨어 개발자예요.
-- 🔥 애자일하고 스크럼하게 일하는 방식을 선호해요.
-- 🦋 호기심이 아주 많고 생각도 많아요.
-- 💁 Why에 집착하는 성향이에요!
+- 🏡 &nbsp; 서울에 거주하고 있는 웹/앱 소프트웨어 개발자에요. <br>
+- 🔥 &nbsp; 애자일하고 스크럼하게 일하는 방식을 선호해요. <br>
+- 🦋 &nbsp; 호기심이 아주 많고 생각도 많아요. <br>
+- 💁 &nbsp; Why에 집착하는 성향이에요! <br>
+
+### Repository Convention:
+
+- 네이밍룰 : category + name + stack
+- 카테고리명 : service(실서비스), project(개인프로젝트), boiler(보일러플레이트), unit(유닛)
+- 샘플명 : service-vlpm-reactnative
 
 ### Connect with me:
 
 - 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com)
-
-### Repository Convention:
-
-- 🔖 네이밍룰 : category + name + stack
-- 📂 카테고리명 : service(실서비스), project(개인프로젝트), test(연습용), unit(유닛)
-- 📄 샘플명 : service-vlpm-reactnative
 
 ---
 
