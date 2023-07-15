@@ -58,18 +58,6 @@
 <br>
  
 <span>
-  <img src="https://img.shields.io/badge/StyledComponent-101010?style=flat&logo=styled%2Dcomponents&logoColor=DB7093"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/TailwindCSS-101010?style=flat&logo=Tailwind%20CSS&logoColor=06B6D4"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Emotion-101010?style=flat&logo=elementary&logoColor=bd41a8"/>
-</span>
- 
-<br>
- 
-<span>
   <img src="https://img.shields.io/badge/Vite-101010?style=flat&logo=Vite&logoColor=646CFF"/>
 </span>
 <span>
