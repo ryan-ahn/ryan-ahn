@@ -9,18 +9,24 @@
 - 🦋&nbsp; 호기심이 아주 많고 생각도 많아요. <br>
 - 💁&nbsp; Why에 집착하는 성향이에요! <br>
 
-### Repository Convention:
-
-- 네이밍룰 : category + name + stack
-- 카테고리명 : service, project, boiler, unit, clone, test
-- 샘플 : service-vlpm-reactnative
-
 ### Connect with me:
 
 - 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com)
 
 ---
 
+### Repository Convention:
+
+- 네이밍룰 : category + name + stack
+- 예시 : service-vlpm-reactnative
+- 카테고리명 : <br>
+&nbsp;&nbsp;`service` : 실제 서비스 <br>
+&nbsp;&nbsp;`project` : 개인 프로젝트 <br>
+&nbsp;&nbsp;`boilerplate` : 보일러 플레이트 <br>
+&nbsp;&nbsp;`unut` : 유닛 단위 기능 <br>
+&nbsp;&nbsp;`clone` : 연구용 클로닝 <br>
+
+---
 
 ### Technical Stack:
 <h5>1) Front-End</h5>
