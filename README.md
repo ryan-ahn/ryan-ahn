@@ -18,7 +18,7 @@
 ### Repository Convention:
 
 - 네이밍룰 : category + name + stack
-- 예시 : service-vlpm-reactnative
+- 예시 : project-noonbody-flutter
 - 카테고리명 : <br>
 &nbsp;&nbsp;`service` : 실제 상용 서비스 <br>
 &nbsp;&nbsp;`project` : 개인 프로젝트 <br>
