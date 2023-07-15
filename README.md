@@ -23,7 +23,7 @@
 &nbsp;&nbsp;`service` : 실제 상용 서비스 <br>
 &nbsp;&nbsp;`project` : 개인 프로젝트 <br>
 &nbsp;&nbsp;`boiler` : 보일러 플레이트 <br>
-&nbsp;&nbsp;`unut` : 유닛 단위 기능 <br>
+&nbsp;&nbsp;`unit` : 유닛 단위 기능 <br>
 &nbsp;&nbsp;`clone` : 연구용 클로닝 <br>
 
 ---
