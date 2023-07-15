@@ -11,14 +11,15 @@
 
 ### Repository Convention:
 
-- 네이밍룰 : category + name + stack
-- 예시 : project-noonbody-flutter
-- 카테고리명 : <br>
-  - `service` : 실제 상용 서비스 <br>
-  - `project` : 개인 프로젝트 <br>
-  - `boiler` : 보일러 플레이트 <br>
-  - `unit` : 유닛 단위 기능 <br>
-  - `clone` : 연구용 클로닝 <br>
+- `category` + `name` + `stack`
+
+### Repository Categories
+
+- `service` : 실제 상용 서비스 <br>
+- `project` : 개인 프로젝트 <br>
+- `boiler` : 보일러 플레이트 <br>
+- `unit` : 유닛 단위 기능 <br>
+- `clone` : 연구용 클로닝 <br>
 
 ### Connect with me:
 
