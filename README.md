@@ -9,12 +9,6 @@
 - 🦋&nbsp; 호기심이 아주 많고 생각도 많아요. <br>
 - 💁&nbsp; Why에 집착하는 성향이에요! <br>
 
-### Connect with me:
-
-- 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com)
-
----
-
 ### Repository Convention:
 
 - 네이밍룰 : category + name + stack
@@ -25,6 +19,10 @@
 &nbsp;&nbsp;`boiler` : 보일러 플레이트 <br>
 &nbsp;&nbsp;`unit` : 유닛 단위 기능 <br>
 &nbsp;&nbsp;`clone` : 연구용 클로닝 <br>
+
+### Connect with me:
+
+- 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com)
 
 ---
 
