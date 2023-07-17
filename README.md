@@ -18,8 +18,8 @@
 - `service` : 실제 상용 서비스 <br>
 - `project` : 개인 프로젝트 <br>
 - `boiler` : 보일러 플레이트 <br>
-- `unit` : 유닛 단위 연구 노트 <br>
-- `clone` : 연구용 클로닝 <br>
+- `clone` : 연구용 클론 <br>
+- `lab` : 유닛 단위 연구 <br>
 
 ### Connect with me:
 
