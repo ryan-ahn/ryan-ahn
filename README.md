@@ -54,6 +54,9 @@
   <img src="https://img.shields.io/badge/Vue.js-101010?style=flat&logo=Vue.js&logoColor=4FC08D"/>
 </span>
 <span>
+  <img src="https://img.shields.io/badge/Svelte-101010?style=flat&logo=svelte&logoColor=FF3E00"/>
+</span>
+<span>
   <img src="https://img.shields.io/badge/Flutter-101010?style=flat&logo=Flutter&logoColor=764ABC"/>
 </span>
 <span>
