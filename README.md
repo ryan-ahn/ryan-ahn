@@ -28,15 +28,12 @@
 ---
 
 ### Technical Stack:
-<h5>1) Front-End</h5>
+<h5>1) Web Front</h5>
 <span>
   <img src="https://img.shields.io/badge/Typescript-101010?style=flat&logo=TypeScript&logoColor=3178C6"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/Javascript-101010?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Dart-101010?style=flat&logo=Dart&logoColor=0175C2"/>
 </span>
   
 <br>
@@ -56,12 +53,6 @@
 <span>
   <img src="https://img.shields.io/badge/Svelte-101010?style=flat&logo=svelte&logoColor=FF3E00"/>
 </span>
-<span>
-  <img src="https://img.shields.io/badge/Flutter-101010?style=flat&logo=Flutter&logoColor=764ABC"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/ReactNative-101010?style=flat&logo=React&logoColor=61DAFB"/>
-</span>
  
 <br>
  
@@ -72,8 +63,24 @@
   <img src="https://img.shields.io/badge/Webpack-101010?style=flat&logo=webpack&logoColor=8DD6F9"/>
 </span>
 
+<br>
 
-<h5>2) Back-End</h5>
+<h5>3) Mobile App</h5>
+
+<span>
+  <img src="https://img.shields.io/badge/Dart-101010?style=flat&logo=Dart&logoColor=0175C2"/>
+</span>
+<br>
+<span>
+  <img src="https://img.shields.io/badge/Flutter-101010?style=flat&logo=Flutter&logoColor=764ABC"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/ReactNative-101010?style=flat&logo=React&logoColor=61DAFB"/>
+</span>
+
+<br>
+
+<h5>2) Server</h5>
 <span>
   <img src="https://img.shields.io/badge/Nodejs-101010?style=flat&logo=Node.js&logoColor=339933"/>
 </span>
