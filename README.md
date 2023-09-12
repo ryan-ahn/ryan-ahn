@@ -19,7 +19,7 @@
 - `boiler` : 보일러 플레이트 <br>
 - `project` : 개인 프로젝트 <br>
 - `clone` : 클론 프로젝트 <br>
-- `lab` : 유닛 단위 기능 <br>
+- `unit` : 유닛 단위 기능 <br>
 
 ### Connect with me:
 
