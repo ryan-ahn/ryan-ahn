@@ -23,7 +23,7 @@
 
 ### Connect with me:
 
-📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [Utube](https://www.youtube.com/channel/UCdGvd9GG87a1UuiaRWDexxQ)
+📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [Video](https://www.youtube.com/channel/UCdGvd9GG87a1UuiaRWDexxQ)
 
 ---
 
