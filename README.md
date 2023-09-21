@@ -88,6 +88,9 @@
   <img src="https://img.shields.io/badge/MySQL-101010?style=flat&logo=mysql&logoColor=4479A1"/>
 </span>
 <span>
+  <img src="https://img.shields.io/badge/MongoDB-101010?style=flat&logo=mongodb&logoColor=47A248"/>
+</span>
+<span>
   <img src="https://img.shields.io/badge/GraphQL-101010?style=flat&logo=graphql&logoColor=E10098"/>
 </span>
 
@@ -96,9 +99,6 @@
 
 <span>
   <img src="https://img.shields.io/badge/Express-101010?style=flat&logo=Express&logoColor=white"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/MongoDB-101010?style=flat&logo=mongodb&logoColor=47A248"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/Prisma-101010?style=flat&logo=Prisma&logoColor=2D3748"/>
