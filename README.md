@@ -101,6 +101,9 @@
   <img src="https://img.shields.io/badge/Express-101010?style=flat&logo=Express&logoColor=white"/>
 </span>
 <span>
+  <img src="https://img.shields.io/badge/NestJs-101010?style=flat&logo=NestJs&logoColor=E0234E"/>
+</span>
+<span>
   <img src="https://img.shields.io/badge/Prisma-101010?style=flat&logo=Prisma&logoColor=2D3748"/>
 </span>
 
