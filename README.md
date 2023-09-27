@@ -21,9 +21,9 @@
 - `clone` : 클론 프로젝트 <br>
 - `unit` : 유닛 단위 기능 <br>
 
-### Connect with me:
+### My Information:
 
-📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [UTube](https://www.youtube.com/channel/UCdGvd9GG87a1UuiaRWDexxQ)
+📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [Project](https://www.youtube.com/channel/UCdGvd9GG87a1UuiaRWDexxQ)
 
 ---
 
