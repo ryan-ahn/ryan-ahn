@@ -90,9 +90,6 @@
 <span>
   <img src="https://img.shields.io/badge/MongoDB-101010?style=flat&logo=mongodb&logoColor=47A248"/>
 </span>
-<span>
-  <img src="https://img.shields.io/badge/GraphQL-101010?style=flat&logo=graphql&logoColor=E10098"/>
-</span>
 
 <br>
   
