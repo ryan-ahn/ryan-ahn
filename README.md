@@ -113,6 +113,9 @@
 <span>
   <img src="https://img.shields.io/badge/AWS-101010?style=flat&logo=amazonaws&logoColor=FF9900"/>
 </span>
+<span>
+  <img src="https://img.shields.io/badge/Vercel-101010?style=flat&logo=vercel&logoColor=white"/>
+</span>
 
 ---
 
