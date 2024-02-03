@@ -18,6 +18,7 @@
 - `service` : 상용 서비스 <br>
 - `boiler` : 보일러 플레이트 <br>
 - `project` : 개인 프로젝트 <br>
+- `package` : NPM 패키지 <br>
 - `clone` : 클론 프로젝트 <br>
 - `unit` : 유닛 단위 기능 <br>
 
