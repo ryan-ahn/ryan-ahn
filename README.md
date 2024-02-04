@@ -29,7 +29,7 @@
 ---
 
 ### Technical Stack:
-<h5>1) Web Front</h5>
+<h5>1) Web Front </h5>
 <span>
   <img src="https://img.shields.io/badge/Typescript-101010?style=flat&logo=TypeScript&logoColor=3178C6"/>
 </span>
@@ -66,7 +66,7 @@
 
 <br>
 
-<h5>3) Mobile App</h5>
+<h5>3) Mobile App </h5>
 
 <span>
   <img src="https://img.shields.io/badge/Dart-101010?style=flat&logo=Dart&logoColor=0175C2"/>
@@ -81,9 +81,12 @@
 
 <br>
 
-<h5>2) Server</h5>
+<h5>2) Backend Server </h5>
 <span>
   <img src="https://img.shields.io/badge/Nodejs-101010?style=flat&logo=Node.js&logoColor=339933"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Python-101010?style=flat&logo=python&logoColor=3776AB"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/MySQL-101010?style=flat&logo=mysql&logoColor=4479A1"/>
@@ -102,7 +105,7 @@
   <img src="https://img.shields.io/badge/NestJs-101010?style=flat&logo=NestJs&logoColor=E0234E"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Prisma-101010?style=flat&logo=Prisma&logoColor=2D3748"/>
+  <img src="https://img.shields.io/badge/FastApi-101010?style=flat&logo=fastapi&logoColor=009688"/>
 </span>
 
   
