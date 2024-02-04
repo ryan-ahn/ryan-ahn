@@ -58,10 +58,7 @@
 <br>
  
 <span>
-  <img src="https://img.shields.io/badge/Vite-101010?style=flat&logo=Vite&logoColor=646CFF"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Webpack-101010?style=flat&logo=webpack&logoColor=8DD6F9"/>
+  <img src="https://img.shields.io/badge/Vercel-101010?style=flat&logo=vercel&logoColor=white"/>
 </span>
 
 <br>
@@ -116,9 +113,6 @@
 </span>
 <span>
   <img src="https://img.shields.io/badge/AWS-101010?style=flat&logo=amazonaws&logoColor=FF9900"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Vercel-101010?style=flat&logo=vercel&logoColor=white"/>
 </span>
 
 ---
