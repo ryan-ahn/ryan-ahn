@@ -63,7 +63,7 @@
 
 <br>
 
-<h5>3) Mobile App </h5>
+<h5>2) Mobile App </h5>
 
 <span>
   <img src="https://img.shields.io/badge/Dart-101010?style=flat&logo=Dart&logoColor=0175C2"/>
@@ -78,7 +78,7 @@
 
 <br>
 
-<h5>2) Backend Server </h5>
+<h5>3) Backend Server </h5>
 <span>
   <img src="https://img.shields.io/badge/Nodejs-101010?style=flat&logo=Node.js&logoColor=339933"/>
 </span>
