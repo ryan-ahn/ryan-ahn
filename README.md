@@ -68,12 +68,23 @@
 <span>
   <img src="https://img.shields.io/badge/Dart-101010?style=flat&logo=Dart&logoColor=0175C2"/>
 </span>
+
 <br>
+
 <span>
   <img src="https://img.shields.io/badge/Flutter-101010?style=flat&logo=Flutter&logoColor=764ABC"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/ReactNative-101010?style=flat&logo=React&logoColor=61DAFB"/>
+</span>
+
+<br>
+
+<span>
+  <img src="https://img.shields.io/badge/AppStore-101010?style=flat&logo=AppStore&logoColor=0D96F6"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/GooglePlay-101010?style=flat&logo=GooglePlay&logoColor=ffffff"/>
 </span>
 
 <br>
