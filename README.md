@@ -20,7 +20,7 @@
 - `project` : 개인 프로젝트 <br>
 - `package` : NPM 패키지 <br>
 - `clone` : 클론 프로젝트 <br>
-- `unit` : 유닛 단위 테스트 <br>
+- `unit` : 기능 테스트 <br>
 
 ### My Information:
 
