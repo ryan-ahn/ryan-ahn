@@ -19,8 +19,7 @@
 - `boiler` : 보일러 플레이트 <br>
 - `project` : 개인 프로젝트 <br>
 - `package` : NPM 패키지 <br>
-- `clone` : 클론 프로젝트 <br>
-- `unit` : 기능 테스트 <br>
+- `module` : 모듈 단위 <br>
 
 ### My Information:
 
