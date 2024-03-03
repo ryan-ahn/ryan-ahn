@@ -15,10 +15,9 @@
 
 ### Repository Categories
 
-- `service` : 상용 서비스 <br>
-- `boiler` : 보일러 플레이트 <br>
-- `project` : 개인 프로젝트 <br>
 - `package` : NPM 패키지 <br>
+- `service` : 상용 서비스 <br>
+- `project` : 개인 프로젝트 <br>
 - `module` : 기능 모듈 <br>
 
 ### My Information:
