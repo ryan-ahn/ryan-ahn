@@ -19,7 +19,7 @@
 - `boiler` : 보일러 플레이트 <br>
 - `project` : 개인 프로젝트 <br>
 - `package` : NPM 패키지 <br>
-- `module` : 모듈 단위 <br>
+- `module` : 기능 모듈 <br>
 
 ### My Information:
 
