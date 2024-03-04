@@ -22,7 +22,7 @@
 
 ### My Information:
 
-📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [Project](https://www.youtube.com/channel/UCdGvd9GG87a1UuiaRWDexxQ)
+📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [NPM](https://www.npmjs.com/~ryan-ahn?activeTab=packages)
 
 ---
 
