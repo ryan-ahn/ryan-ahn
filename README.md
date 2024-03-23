@@ -25,11 +25,14 @@
 
 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [NPM](https://www.npmjs.com/~ryan-ahn?activeTab=packages)
 
+
 ---
+
 
 ### Technical Stack:
 
 <h5>1) Language </h5>
+
 <span>
   <img src="https://img.shields.io/badge/Typescript-101010?style=flat&logo=TypeScript&logoColor=3178C6"/>
 </span>
@@ -45,12 +48,11 @@
 <span>
   <img src="https://img.shields.io/badge/C%23-101010?style=flat&logo=C%23&logoColor=339933"/>
 </span>
-
   
 <br>
 
-<h5>2) Web </h5>
-  
+<h5>2) Web/App Frameworks </h5>
+
 <span>
   <img src="https://img.shields.io/badge/Next.js-101010?style=flat&logo=Next.js&logoColor=white"/>
 </span>
@@ -70,6 +72,17 @@
 <br>
 
 <span>
+  <img src="https://img.shields.io/badge/Flutter-101010?style=flat&logo=Flutter&logoColor=764ABC"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/ReactNative-101010?style=flat&logo=React&logoColor=61DAFB"/>
+</span>
+ 
+<br>
+
+<h5>3) API Server Frameworks </h5>
+
+<span>
   <img src="https://img.shields.io/badge/Express-101010?style=flat&logo=Express&logoColor=white"/>
 </span>
 <span>
@@ -84,10 +97,18 @@
 <span>
   <img src="https://img.shields.io/badge/MongoDB-101010?style=flat&logo=mongodb&logoColor=47A248"/>
 </span>
- 
+
 <br>
 
-<h5>3) Cloud </h5>
+<h5>4) Game Client Engines </h5>
+
+<span>
+  <img src="https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=ffffff"/>
+</span>
+
+<br>
+
+<h5>5) Cloud Infra </h5>
 
 <span>
   <img src="https://img.shields.io/badge/Vercel-101010?style=flat&logo=vercel&logoColor=white"/>
@@ -106,25 +127,6 @@
 </span>
 <span>
   <img src="https://img.shields.io/badge/GooglePlay-101010?style=flat&logo=GooglePlay&logoColor=ffffff"/>
-</span>
-
-<br>
-
-<h5>4) Mobile </h5>
-
-<span>
-  <img src="https://img.shields.io/badge/Flutter-101010?style=flat&logo=Flutter&logoColor=764ABC"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/ReactNative-101010?style=flat&logo=React&logoColor=61DAFB"/>
-</span>
-
-<br>
-
-<h5>5) Game </h5>
-
-<span>
-  <img src="https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=ffffff"/>
 </span>
 
 
