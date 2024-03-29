@@ -80,7 +80,7 @@
  
 <br>
 
-<h5>3) API Server Frameworks </h5>
+<h5>3) Server Frameworks </h5>
 
 <span>
   <img src="https://img.shields.io/badge/Express-101010?style=flat&logo=Express&logoColor=white"/>
@@ -100,7 +100,7 @@
 
 <br>
 
-<h5>4) Game Client Engines </h5>
+<h5>4) Game Engines </h5>
 
 <span>
   <img src="https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=ffffff"/>
