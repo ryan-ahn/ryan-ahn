@@ -2,9 +2,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rhan-ahn" alt="Ryan" /></p>
 
-### Hi, there, This is Ryan!
+### Work experience.
 
-- 🏡&nbsp; 서울에 거주하고 있는 소프트웨어 개발자에요.
+- 🏡&nbsp; (현) 타임앤코 개발팀 리드
+- 🔥&nbsp; (전) 모두의연구소, 티오더 풀스택 개발자
+
+### Hi, there, this is Ryan!
+
 - 🔥&nbsp; 애자일하게 업무에 몰입할 수 있는 환경을 선호해요.
 - 🦋&nbsp; 호기심이 아주 많고 생각도 많아요.
 - 💁&nbsp; Why에 집착하는 성향이에요!
