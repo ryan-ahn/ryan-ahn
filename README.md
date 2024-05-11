@@ -5,7 +5,7 @@
 ### Work experience.
 
 - 🏡&nbsp; (현) 타임앤코 개발팀 리드
-- 🔥&nbsp; (전) 모두의연구소, 티오더 풀스택 개발자
+- 🏘️&nbsp; (전) 모두의연구소, 티오더 풀스택 개발자
 
 ### Hi, there, this is Ryan!
 
