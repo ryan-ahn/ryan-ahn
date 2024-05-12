@@ -2,12 +2,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rhan-ahn" alt="Ryan" /></p>
 
-### Work experience.
+### Work experience:
 
 - 🏡&nbsp; (현) 타임앤코 개발팀 리드
 - 🏘️&nbsp; (전) 모두의연구소, 티오더 풀스택 개발자
 
-### Hi, there, this is Ryan!
+### Self Introduce:
 
 - 🔥&nbsp; 그로스 해킹한 업무 환경을 선호해요.
 - 🦋&nbsp; 호기심이 아주 많고 생각도 많아요.
@@ -17,7 +17,7 @@
 
 - `category` + `name` + `what`
 
-### Repository Categories
+### Repository Categories:
 
 - `npm` : NPM 패키지 <br>
 - `boilerplate` : 보일러 플레이트 <br>
@@ -27,7 +27,7 @@
 
 ### My Information:
 
-📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [NPM](https://www.npmjs.com/~ryan-ahn?activeTab=packages)
+- 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [NPM](https://www.npmjs.com/~ryan-ahn?activeTab=packages)
 
 
 ---
