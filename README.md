@@ -5,7 +5,7 @@
 ### Work experience:
 
 - 🏡&nbsp; (현) 타임앤코 풀스택 개발자
-- 🏘️&nbsp; (전) 모두의연구소, 티오더 풀스택 개발자
+- 🏘️&nbsp; (전) 티오더, 모두의연구소 풀스택 개발자
 
 ### Self Introduce:
 
