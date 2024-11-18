@@ -25,7 +25,7 @@
 - `service` : 상용 서비스 <br>
 - `project` : 개인 프로젝트 <br>
 - `module` : 기능 모듈 <br>
-- `sample` : 샘플 코드 <br>
+- `demo` : 샘플 코드 <br>
 
 ### My Information:
 
