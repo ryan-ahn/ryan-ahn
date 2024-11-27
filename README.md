@@ -4,8 +4,8 @@
 
 ### Work experience:
 
-- 🏡&nbsp; (현) 타임앤코 풀스택 개발자
-- 🏘️&nbsp; (전) 티오더, 모두의연구소 풀스택 개발자
+- 🏡&nbsp; (현) 스파이더랩 풀스택 개발자
+- 🏘️&nbsp; (전) 타임앤코, 모두의연구소, 티오더 풀스택 개발자
 
 ### Self Introduce:
 
@@ -43,7 +43,10 @@
   <img src="https://img.shields.io/badge/Typescript-101010?style=flat&logo=TypeScript&logoColor=3178C6"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Python-101010?style=flat&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Java-101010?style=flat&logo=Spring&logoColor=6DB33F"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Python-101010?style=flat&logo=Python&logoColor=3776AB"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/Dart-101010?style=flat&logo=Dart&logoColor=0175C2"/>
@@ -52,7 +55,7 @@
   <img src="https://img.shields.io/badge/Nodejs-101010?style=flat&logo=Node.js&logoColor=339933"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/C%23-101010?style=flat&logo=C%23&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/C%23-101010?style=flat&logo=C&logoColor=A07BD6"/>
 </span>
   
 <br>
@@ -92,6 +95,9 @@
 <h5>3) Server Frameworks </h5>
 
 <span>
+  <img src="https://img.shields.io/badge/Spring-101010?style=flat&logo=Spring&logoColor=6DB33F"/>
+</span>
+<span>
   <img src="https://img.shields.io/badge/Express-101010?style=flat&logo=Express&logoColor=white"/>
 </span>
 <span>
@@ -99,6 +105,12 @@
 </span>
 <span>
   <img src="https://img.shields.io/badge/FastApi-101010?style=flat&logo=fastapi&logoColor=009688"/>
+</span>
+
+<br>
+
+<span>
+  <img src="https://img.shields.io/badge/PostgresSQL-101010?style=flat&logo=postgresql&logoColor=4169E1"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/MySQL-101010?style=flat&logo=mysql&logoColor=4479A1"/>
@@ -123,7 +135,7 @@
   <img src="https://img.shields.io/badge/Vercel-101010?style=flat&logo=vercel&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/AWS-101010?style=flat&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/AWS-101010?style=flat&logo=amazonwebservices&logoColor=FF9900"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/GCP-101010?style=flat&logo=googlecloud&logoColor=4285F4"/>
