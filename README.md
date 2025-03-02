@@ -144,32 +144,6 @@
 </span>
 
 
----
-
-
-### Design Tools:
-
-<span>
-  <img src="https://img.shields.io/badge/Figma-101010?style=flat&logo=Figma&logoColor=F24E1E"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-101010?style=flat&logo=Adobe%20Illustrator&logoColor=FF9A00"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Adobe%20XD-101010?style=flat&logo=Adobe XD&logoColor=FF61F6"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-101010?style=flat&logo=Adobe%20Lightroom&logoColor=31A8FF"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-101010?style=flat&logo=Adobe%20Photoshop&logoColor=27A1C5"/>
-</span>
-  
-<br>
-  
-<span>
-  <img src="https://img.shields.io/badge/Adobe%20AfterEffects-101010?style=flat&logo=adobeaftereffects&logoColor=9999FF"/>
-</span>
 <span>
   <img src="https://img.shields.io/badge/Adobe%20PremierePro-101010?style=flat&logo=adobepremierepro&logoColor=9999FF"/>
 </span>
