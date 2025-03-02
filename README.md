@@ -7,11 +7,11 @@
 - 🏡&nbsp; (현) 스파이더랩 풀스택 개발자
 - 🏘️&nbsp; (전) 타임앤코, 티오더, 모두의연구소 풀스택 개발자
 
-### Repository Convention:
+### Repository convention:
 
 - `category` + `name` + `what`
 
-### Repository Categories:
+### Repository categories:
 
 - `npm` : NPM 패키지 <br>
 - `boilerplate` : 보일러 플레이트 <br>
@@ -20,7 +20,7 @@
 - `module` : 기능 모듈 <br>
 - `demo` : 샘플 코드 <br>
 
-### My Information:
+### My information:
 
 - 📨 [Email](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaaiinn4@gmail.com) &nbsp;&nbsp;📮 [NPM](https://www.npmjs.com/~ryan-ahn?activeTab=packages)
 
