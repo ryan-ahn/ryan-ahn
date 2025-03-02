@@ -7,13 +7,6 @@
 - 🏡&nbsp; (현) 스파이더랩 풀스택 개발자
 - 🏘️&nbsp; (전) 타임앤코, 티오더, 모두의연구소 풀스택 개발자
 
-### Self Introduce:
-
-- 🕋&nbsp; 서울에 거주하는 소프트웨어 개발자랍니다.
-- 🔥&nbsp; 일과 삶의 분리가 아닌 조화를 워라밸이라 부릅니다.
-- 🦋&nbsp; 호기심이 아주 많고 생각도 많아요.
-- 💁&nbsp; Why에 집착하는 성향이에요!
-
 ### Repository Convention:
 
 - `category` + `name` + `what`
